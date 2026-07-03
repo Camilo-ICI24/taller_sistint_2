@@ -7,10 +7,7 @@ Un modelo básico para predecir el valor de un nuevo vehículo basado en un data
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Características](#características)
-- [Tecnologías](#tecnologías)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Comentarios finales](#comentarios-finales)
 
 ## Descripción
 
